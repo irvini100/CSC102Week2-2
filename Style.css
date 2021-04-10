@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    background-image: linear-gradient(90deg, white 0%, red);
+}
+
+
+.button{
+    width:  100px;
+    height:  30px;
+    background-color: white;
+    border-color:  lightblue
+}
+
+
+.lgbutton{
+    background-color: white;
+    border-color:  lightblue;
+    width:  150px;
+    height:  30px;
+    border-radius: 12;
+}
+
+.sandButton{
+    width:  100px;
+    height:  30px;
+    background-color: white;
+    border-color:  red;
+}
